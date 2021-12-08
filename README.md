@@ -2,10 +2,6 @@
 
 This is a simple readme file.
 
-More text.
+## Heading 2
 
-Another line.
-
-Just some text.
-
-Just some updates, on a branch.
+This is bound to cause trouble.
